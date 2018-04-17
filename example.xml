@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27945</ObservationId>
+  <MediaId>14</MediaId>
+  <Vote>1</Vote>
+  <Content>Entire</Content>
+  <ClassId>3372</ClassId>
+  <Family>Gentianaceae</Family>
+  <Genus>Gentiana</Genus>
+  <Species>Gentiana pyrenaica L.</Species>
+  <Author>pol califice</Author>
+  <Date>2013-9-13</Date>
+  <Location />
+  <Latitude>42.57611</Latitude>
+  <Longitude>1.97198</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Test</LearnTag>
+</Image>
